@@ -7,7 +7,6 @@ projects:
   - clamp
   - clap
   - cmdparse
-  - cocaine
   - commander
   - config_parser
   - cri
