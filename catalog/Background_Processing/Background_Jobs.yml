@@ -12,6 +12,7 @@ projects:
   - cloud-crowd
   - delayed_job
   - delayed_job_active_record
+  - faktory_worker_ruby
   - frenzy_bunnies
   - girl_friday
   - gnufied/backgroundrb
