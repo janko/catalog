@@ -26,6 +26,5 @@ projects:
   - sunspot_solr
   - texticle
   - thinking-sphinx
-  - tire
   - xapian_db
   - xapit
