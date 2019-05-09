@@ -9,4 +9,3 @@ projects:
   - orm_adapter
   - rom
   - sequel
-  - squeel
