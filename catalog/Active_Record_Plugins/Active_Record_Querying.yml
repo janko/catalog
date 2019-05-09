@@ -2,3 +2,4 @@ name: Active Record Querying
 description: 
 projects:
   - squeel
+  - active_record_extended
